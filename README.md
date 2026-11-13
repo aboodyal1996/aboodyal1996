@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on **Python projects, Machine Learning pipelines, and LLM-powered applications** while serving as a **Presales & Implementation Engineer at Seven Horizons Information Technology**[cite: 3].
+- 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, Large Language Models (LLMs), and Generative AI**.
+- 👯 I’m looking to collaborate on **AI Engineering, Workflow Automation, and Intelligent Enterprise Systems**.
+- 🤔 I’m looking for help with **best practices in scaling RAG architectures and transitioning from traditional IT infrastructure to AI Engineering**.
+- 💬 Ask me about **Enterprise POS Architectures (Revel, Lightspeed), SQL Databases, Solution Architecture, and Digital Transformation**[cite: 3, 4].
+- 📫 How to reach me: **Aboodyal1996@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/abdulrahman-alsebaaei-814777209)**[cite: 3]
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I bridge physical retail hardware & server rooms with intelligent AI models—going from configuring fiber optics and POS terminals to training neural networks.**[cite: 3, 4]
 <!--
 **aboodyal1996/aboodyal1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
